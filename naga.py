@@ -2,7 +2,7 @@ import streamlit as st
 import os
 from streamlit_option_menu import option_menu
 import mysql.connector
-con=mysql.connector.connect(user="root",password="" , host="localhost",port=3306,database="sigma")
+con=mysql.connector.connect(user="root",password="",host="127.0.0.1",database="sigma")
 from tabulate import tabulate
 import pandas as pd
 
