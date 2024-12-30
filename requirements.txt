@@ -1,5 +1,5 @@
 streamlit
 streamlit-option-menu
-mysql-connector
+mysql-connector-python 
 tabulate
 pandas
